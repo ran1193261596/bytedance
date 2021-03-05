@@ -1,0 +1,4 @@
+#Fri Mar 05 20:02:10 CST 2021
+base.0=E\:\\used_for_byteclass\\bytedance\\chapter-2-rcx-518120910210\\Demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
